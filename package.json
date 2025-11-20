@@ -1,0 +1,15 @@
+{
+  "name": "url_shortening_service",
+  "version": "1.0.0",
+  "description": "Requirements\r You should create a RESTful API for a URL shortening service. The API should allow users to perform the following operations:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
