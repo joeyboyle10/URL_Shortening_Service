@@ -1,4 +1,7 @@
 Requirements
+
+https://roadmap.sh/projects/url-shortening-service
+
 You should create a RESTful API for a URL shortening service. The API should allow users to perform the following operations:
 
 Create a new short URL
